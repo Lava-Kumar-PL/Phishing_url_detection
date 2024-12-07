@@ -80,3 +80,11 @@ To set up the project locally, follow these steps:
 ## Data
 
 The dataset used for training the models is sourced from Kaggle. It contains over 11,000 samples with 30 features related to URLs and a class label indicating whether the URL is phishing or not.
+
+## Result
+
+<img src="https://github.com/Lava-Kumar-PL/Phishing_url_detection/blob/main/results/phishingGIF.gif " width="400" />
+
+<img src="https://github.com/Lava-Kumar-PL/Phishing_url_detection/blob/main/results/url.png " width="400" />
+
+<img src="https://github.com/Lava-Kumar-PL/Phishing_url_detection/blob/main/results/prediction.png " width="400" />
